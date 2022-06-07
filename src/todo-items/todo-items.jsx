@@ -1,4 +1,3 @@
-// import { useState } from 'react';
 import { useState } from 'react';
 import './todo-items.css';
 
